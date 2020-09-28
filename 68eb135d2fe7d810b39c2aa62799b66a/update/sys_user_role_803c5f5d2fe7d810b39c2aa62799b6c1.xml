@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_275826_data_rete.data_retention_viewer</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_275826_data_rete.data_retention_viewer</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>robert.polickoski</sys_created_by>
+        <sys_created_on>2020-09-28 20:03:48</sys_created_on>
+        <sys_id>803c5f5d2fe7d810b39c2aa62799b6c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_275826_data_rete.data_retention_viewer</sys_name>
+        <sys_package display_value="Data Retention and Privacy Management" source="x_275826_data_rete">68eb135d2fe7d810b39c2aa62799b66a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Retention and Privacy Management">68eb135d2fe7d810b39c2aa62799b66a</sys_scope>
+        <sys_update_name>sys_user_role_803c5f5d2fe7d810b39c2aa62799b6c1</sys_update_name>
+        <sys_updated_by>robert.polickoski</sys_updated_by>
+        <sys_updated_on>2020-09-28 20:03:48</sys_updated_on>
+    </sys_user_role>
+</record_update>
