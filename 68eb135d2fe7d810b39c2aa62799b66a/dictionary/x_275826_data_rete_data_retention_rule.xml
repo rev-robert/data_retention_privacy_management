@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Data Retention Rule" max_length="40" name="x_275826_data_rete_data_retention_rule" type="collection">
+        <element label="Conditions" max_length="4000" name="conditions" type="conditions"/>
+        <element label="Field" mandatory="true" max_length="80" name="field" type="field_name"/>
+        <element label="Jurisdiction" mandatory="true" max_length="32" name="jurisdiction" reference="x_275826_data_rete_jurisdiction" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Table" mandatory="true" max_length="80" name="table" type="table_name"/>
+        <index name="index">
+            <element name="jurisdiction"/>
+        </index>
     </element>
 </database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Jurisdiction" max_length="40" name="x_275826_data_rete_jurisdiction" type="collection">
+        <element label="Conditions" max_length="4000" name="conditions" type="conditions"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>

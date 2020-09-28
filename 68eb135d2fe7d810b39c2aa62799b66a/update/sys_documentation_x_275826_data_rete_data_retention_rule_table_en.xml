@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="table" label="Table" language="en" table="x_275826_data_rete_data_retention_rule">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <help/>
+            <hint/>
+            <label>Table</label>
+            <language>en</language>
+            <name>x_275826_data_rete_data_retention_rule</name>
+            <plural>Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>robert.polickoski</sys_created_by>
+            <sys_created_on>2020-09-28 20:26:54</sys_created_on>
+            <sys_id>aa7167552f2bd810b39c2aa62799b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table</sys_name>
+            <sys_package display_value="Data Retention and Privacy Management" source="x_275826_data_rete">68eb135d2fe7d810b39c2aa62799b66a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Data Retention and Privacy Management">68eb135d2fe7d810b39c2aa62799b66a</sys_scope>
+            <sys_update_name>sys_documentation_x_275826_data_rete_data_retention_rule_table_en</sys_update_name>
+            <sys_updated_by>robert.polickoski</sys_updated_by>
+            <sys_updated_on>2020-09-28 20:26:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
